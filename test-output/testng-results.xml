@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤١:٥٦ غرينتش+٠٣:٠٠" name="Default suite" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٤٠ غرينتش+٠٣:٠٠" duration-ms="43967">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤١:٥٦ غرينتش+٠٣:٠٠" name="Default test" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٤٠ غرينتش+٠٣:٠٠" duration-ms="43967">
+      <class name="packagee.Midc">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:packagee.Midc@41dd05a]" started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤١:٥٦ غرينتش+٠٣:٠٠" name="mySetup" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٠٢ غرينتش+٠٣:٠٠" duration-ms="6135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="SinUp()[pri:1, instance:packagee.Midc@41dd05a]" started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٠٢ غرينتش+٠٣:٠٠" name="SinUp" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:١٥ غرينتش+٠٣:٠٠" duration-ms="12575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SinUp -->
+        <test-method signature="LoginTest()[pri:2, instance:packagee.Midc@41dd05a]" started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:١٥ غرينتش+٠٣:٠٠" name="LoginTest" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:١٦ غرينتش+٠٣:٠٠" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="RandomItems()[pri:3, instance:packagee.Midc@41dd05a]" started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:١٦ غرينتش+٠٣:٠٠" name="RandomItems" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٣٠ غرينتش+٠٣:٠٠" duration-ms="13876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomItems -->
+        <test-method signature="randomitemsandoutofstok()[pri:4, instance:packagee.Midc@41dd05a]" started-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٣٠ غرينتش+٠٣:٠٠" name="randomitemsandoutofstok" finished-at="٢٠٢٥-٠٨-٢٢T٠٠:٤٢:٤٠ غرينتش+٠٣:٠٠" duration-ms="9663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomitemsandoutofstok -->
+      </class> <!-- packagee.Midc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
